@@ -1,5 +1,12 @@
 <?PHP
 
+/*
+Hazırlayan / Created : Serdar KARACA
+http://serdarkaraca.com
+serdarkaraca13@gmail.com
+*/
+
+
 class DB_Class {
 
     private $db;
